@@ -1,2 +1,0 @@
-RewriteEngine On
-RewriteRule ^(.*)$ https://kai-vu.github.io/zorro/$1 [R=302,L]

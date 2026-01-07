@@ -15,12 +15,10 @@ Contact
 
 This registration is administered by:
 
- * Nicolas A. Seydoux (@NSeydoux) <br>
-   Engineer, [Inrupt, Inc.](https://inrupt.com) <br>
+ * David Bowen
+   Lead SRE, [Inrupt, Inc.](https://inrupt.com)
+   <david.bowen@inrupt.com>
+
+ * Nicolas A. Seydoux
+   Devtools Developer, [Inrupt, Inc.](https://inrupt.com)
    <nseydoux@inrupt.com>
- * Aaron Coburn (@acoburn) <br>
-   Engineer, [Inrupt, Inc.](https://inrupt.com) <br>
-   <aaronc@inrupt.com>
- * Jarlath Holleran (@jholleran) <br>
-   Engineer, [Inrupt, Inc.](https://inrupt.com) <br>
-   <jarlathh@inrupt.com>

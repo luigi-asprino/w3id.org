@@ -7,11 +7,8 @@ The I-ADOPT Framework ontology is a simple ontology designed to facilitate inter
 * https://w3id.org/iadopt/
 
 ## Vocabular(y/ies)
-* https://w3id.org/iadopt/ont/ ... the ontology
-* https://w3id.org/iadopt/variable/ ... namespace for individual instances
-* https://w3id.org/iadopt/corpus/ ... collection of instances
+* https://w3id.org/iadopt/ont/
 
 ## Contact
 
-* Space administered by *Sirko Schindler* <w3id-iadopt@sirko.org>, [@SirkoS](https://github.com/SirkoS/)
-* Space administered by *Barbara Magagna* [@mabablue](https://github.com/mabablue/)
+Space administered by *Sirko Schindler* <w3id-iadopt@sirko.org>
